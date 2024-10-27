@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rira.Domain", "Domain\Rira.Domain.csproj", "{DE5A78F9-14FA-45FE-9A38-138A8C50BA66}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rira.Data", "Rira.Data\Rira.Data.csproj", "{1F8DE3E2-1DD1-4474-AA0F-E72445C74CA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rira.UI", "Rira.UI\Rira.UI.csproj", "{40FECA92-7475-48AD-99AD-DDB70B672325}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE5A78F9-14FA-45FE-9A38-138A8C50BA66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE5A78F9-14FA-45FE-9A38-138A8C50BA66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE5A78F9-14FA-45FE-9A38-138A8C50BA66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE5A78F9-14FA-45FE-9A38-138A8C50BA66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F8DE3E2-1DD1-4474-AA0F-E72445C74CA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F8DE3E2-1DD1-4474-AA0F-E72445C74CA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F8DE3E2-1DD1-4474-AA0F-E72445C74CA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F8DE3E2-1DD1-4474-AA0F-E72445C74CA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40FECA92-7475-48AD-99AD-DDB70B672325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40FECA92-7475-48AD-99AD-DDB70B672325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40FECA92-7475-48AD-99AD-DDB70B672325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40FECA92-7475-48AD-99AD-DDB70B672325}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6113B99-FB6B-4658-9B7D-6DFEB12C4615}
+	EndGlobalSection
+EndGlobal
